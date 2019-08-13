@@ -1,0 +1,4 @@
+#ram#25#python
+#sam#12#java
+#mohan#32#hadoop
+#sonu#26#linux
